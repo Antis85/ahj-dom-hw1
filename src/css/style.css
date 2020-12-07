@@ -1,0 +1,27 @@
+body {
+    color: rgb(128, 64, 64);
+    background-color: rgb(128, 128, 128); 
+    text-align: center;   
+}
+
+div {
+    display: inline-block;
+    margin: 50px auto;
+}
+
+/* table {
+    border-collapse: collapse;    
+} */
+
+td {    
+    width: 125px;
+    height: 125px; 
+    background-color: rgb(55, 80, 55);
+    border: 5px solid #000; 
+    border-radius: 50%;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+}
